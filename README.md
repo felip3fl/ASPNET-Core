@@ -4,12 +4,15 @@
     :construction:  Projeto usado para estudo, forever em construção  :construction:
 </h4>
 
-## Descrição do projeto
+## 📃 Descrição do projeto
 
 <p align="justify">
  Projeto em desenvolvimento para estudo a tecnologia ASP.NET. Seguindo todos os ensinamento do curso Desenvolvedor.io e outras fontes de conhecimento.
-
+</p>
+<p align="center">
 ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green)
+</p>
+
 
 
 ## :hammer: Funcionalidades do projeto
@@ -24,7 +27,13 @@
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Use o Visual Studio Code para usar este projeto**
+Use o ``Visual Studio Code`` para usar este projeto
+
+Run Entity framework command
+```
+migrate
+```
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
