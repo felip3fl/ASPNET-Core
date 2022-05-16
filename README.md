@@ -10,7 +10,8 @@
  Projeto em desenvolvimento para estudo a tecnologia ASP.NET. Seguindo todos os ensinamento do curso Desenvolvedor.io e outras fontes de conhecimento.
 </p>
 <p align="center">
-![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green)
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-blue">
 </p>
 
 
