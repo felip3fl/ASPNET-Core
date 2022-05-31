@@ -32,7 +32,7 @@ Use o ``Visual Studio Code`` para usar este projeto
 
 Run Entity framework command
 ```
-migrate
+update-database -Verbose -Context MeuDBContext
 ```
 
 
