@@ -1,4 +1,9 @@
-<h3 align="center"> FL ASP.NET PROJECT <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="80" align="center" > </h3>
+<h3 align="center"> <img src="https://github.com/felip3fl/FL_ASPNET/assets/20684484/749ff667-b7c7-444e-b3ef-0574a60fd1d5" width="200" align="center" > <BR><BR> FL ASP.NET PROJECT
+<BR><BR>
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-blue">
+<BR><BR>
+</h3>
 
 <p align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
@@ -10,10 +15,6 @@
 
 <p align="justify">
  Projeto em desenvolvimento para estudo a tecnologia ASP.NET. Seguindo todos os ensinamento do curso Desenvolvedor.io e outras fontes de conhecimento.
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-blue">
 </p>
 
 
